@@ -1,0 +1,12 @@
+websocket-client
+gtts
+urllib3
+wikipedia
+flask
+pytz
+requests
+requests[socks]
+pysocks
+amino.fix
+pyfiglet
+pathlib
